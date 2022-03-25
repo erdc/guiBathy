@@ -19,6 +19,9 @@ NOTE: You will need administrator rights to run the MATLAB Runtime installer. Al
 3. Run Executable with MATLAB  Runtime already installed (Requires MATLAB 2020b Runtime v9.9, no toolboxes, no licenses)
 >> Download guibathy.exe and run. 
 
+For use, please cite:
+Bruder, B. L., Brodie, K. L., Hesser, T. J., Spore, N. J., Farthing, M. W., Geheran, M. P., & Renaud, A. D. (2021). guiBathy: A Graphical 
+User Interface to Estimate Nearshore Bathymetry from Hovering Unmanned Aerial System Imagery.
 
 NOTE: To run guibathy.exe you will need the MATLAB 2020b Runtime v9.9 installed regardless if a licensed version of MATLAB is installed.
 If you prefer not to run the .exe, use options 1-2. However this requires licenses and toolboxes. 
