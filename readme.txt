@@ -26,6 +26,8 @@ User Interface to Estimate Nearshore Bathymetry from Hovering Unmanned Aerial Sy
 NOTE: To run guibathy.exe you will need the MATLAB 2020b Runtime v9.9 installed regardless if a licensed version of MATLAB is installed.
 If you prefer not to run the .exe, use options 1-2. However this requires licenses and toolboxes. 
 
+NOTE: In order to run properly, your computer display refresh rate must be ~60Hz. Can be changed via Settings->Display->Advanced Display Settings -->Refresh Rate.
+
 
 NOTE; Source code can be found at https://github.com/Coastal-Imaging-Research-Network/guiBathy-Source-Code
 
